@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-05-28 15:48:55.159601 by gtfs2pt.py v1_16_0+2251-1aba981d8c1
+  options: -n /Users/timo/best-scenario/scenario/sumo/berlin.net.xml <doubleminus>gtfs /Users/timo/dcaiti_bus/GTFS_filtered.zip <doubleminus>date 20230420 <doubleminus>mode bus <doubleminus>vtype-output pt_vtypes.xml
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <vType id="bus" vClass="bus"/>
+</additional>
